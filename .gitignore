@@ -1,0 +1,21 @@
+# Logic
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Outputs
+dist/
+dist-portable/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
